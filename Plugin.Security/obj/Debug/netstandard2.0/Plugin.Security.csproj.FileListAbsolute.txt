@@ -1,0 +1,8 @@
+C:\Users\Victor\source\repos\Plugin.Security\Plugin.Security\bin\Debug\netstandard2.0\Plugin.Security.deps.json
+C:\Users\Victor\source\repos\Plugin.Security\Plugin.Security\bin\Debug\netstandard2.0\Plugin.Security.dll
+C:\Users\Victor\source\repos\Plugin.Security\Plugin.Security\bin\Debug\netstandard2.0\Plugin.Security.pdb
+C:\Users\Victor\source\repos\Plugin.Security\Plugin.Security\obj\Debug\netstandard2.0\Plugin.Security.csproj.CoreCompileInputs.cache
+C:\Users\Victor\source\repos\Plugin.Security\Plugin.Security\obj\Debug\netstandard2.0\Plugin.Security.AssemblyInfoInputs.cache
+C:\Users\Victor\source\repos\Plugin.Security\Plugin.Security\obj\Debug\netstandard2.0\Plugin.Security.AssemblyInfo.cs
+C:\Users\Victor\source\repos\Plugin.Security\Plugin.Security\obj\Debug\netstandard2.0\Plugin.Security.dll
+C:\Users\Victor\source\repos\Plugin.Security\Plugin.Security\obj\Debug\netstandard2.0\Plugin.Security.pdb

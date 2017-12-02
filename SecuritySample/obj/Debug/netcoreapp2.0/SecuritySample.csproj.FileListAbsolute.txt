@@ -1,0 +1,13 @@
+C:\Users\Victor\source\repos\Plugin.Security\SecuritySample\bin\Debug\netcoreapp2.0\SecuritySample.deps.json
+C:\Users\Victor\source\repos\Plugin.Security\SecuritySample\bin\Debug\netcoreapp2.0\SecuritySample.runtimeconfig.json
+C:\Users\Victor\source\repos\Plugin.Security\SecuritySample\bin\Debug\netcoreapp2.0\SecuritySample.runtimeconfig.dev.json
+C:\Users\Victor\source\repos\Plugin.Security\SecuritySample\bin\Debug\netcoreapp2.0\SecuritySample.dll
+C:\Users\Victor\source\repos\Plugin.Security\SecuritySample\bin\Debug\netcoreapp2.0\SecuritySample.pdb
+C:\Users\Victor\source\repos\Plugin.Security\SecuritySample\bin\Debug\netcoreapp2.0\Plugin.Security.dll
+C:\Users\Victor\source\repos\Plugin.Security\SecuritySample\bin\Debug\netcoreapp2.0\Plugin.Security.pdb
+C:\Users\Victor\source\repos\Plugin.Security\SecuritySample\obj\Debug\netcoreapp2.0\SecuritySample.csprojResolveAssemblyReference.cache
+C:\Users\Victor\source\repos\Plugin.Security\SecuritySample\obj\Debug\netcoreapp2.0\SecuritySample.csproj.CoreCompileInputs.cache
+C:\Users\Victor\source\repos\Plugin.Security\SecuritySample\obj\Debug\netcoreapp2.0\SecuritySample.AssemblyInfoInputs.cache
+C:\Users\Victor\source\repos\Plugin.Security\SecuritySample\obj\Debug\netcoreapp2.0\SecuritySample.AssemblyInfo.cs
+C:\Users\Victor\source\repos\Plugin.Security\SecuritySample\obj\Debug\netcoreapp2.0\SecuritySample.dll
+C:\Users\Victor\source\repos\Plugin.Security\SecuritySample\obj\Debug\netcoreapp2.0\SecuritySample.pdb

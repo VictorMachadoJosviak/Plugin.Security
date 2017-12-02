@@ -1,0 +1,22 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<div class="row">
+    <div class="col-lg-10">
+        <div class="form-group">
+            
+            <h2>@ViewBag.hash</h2>
+
+            @using (Html.BeginForm())
+            {
+                <input type="email" class="form-control" placeholder="Username" name="email">
+                <input type="password" class="form-control" placeholder="*******" name="pwd">
+
+                <input type="submit" class="btn btn-primary" value="Encrtypt">                
+            }
+            
+        </div>
+    </div>
+</div>
