@@ -12,7 +12,7 @@ Example:
       PasswordEncoder encoder = new PasswordEncoder();
 
       var user = "name@example.com";
-      var pwd = "#brasil@01";
+      var pwd = "1234";
       var salt = encoder.DefaultSalt[36];
 
       var result = encoder.Encode(salt + user + pwd, EncryptType.SHA_512);
