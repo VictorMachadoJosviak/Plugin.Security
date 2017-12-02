@@ -1,3 +1,5 @@
+<img align="left" src="https://i.imgur.com/t4P3Rra.png" width="100" height="100"> 
+
 # Plugin.Security
 
 Nuget Install-Package Plugin.Security -Version 1.0.2
